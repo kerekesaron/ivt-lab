@@ -86,5 +86,5 @@ public class GT4500 implements SpaceShip {
 
     return firingSuccess;
   }
-
+  //Try Merge Conflict branch-B
 }
